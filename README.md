@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
