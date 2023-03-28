@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Resize angle, count, and stage on keypoint number change (#7598)
