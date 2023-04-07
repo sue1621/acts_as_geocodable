@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Tracker: clean up GMC (#8003)
