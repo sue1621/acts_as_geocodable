@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update OpenVINO INT8 export (#7515)
