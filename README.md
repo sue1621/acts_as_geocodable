@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.1.33 fix HUB model checks (#9153)
