@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
