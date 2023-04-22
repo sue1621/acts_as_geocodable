@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
