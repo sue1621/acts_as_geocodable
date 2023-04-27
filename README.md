@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Rename model_id to model.id (#8447)
