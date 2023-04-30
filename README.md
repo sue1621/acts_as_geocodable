@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
