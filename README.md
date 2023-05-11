@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
