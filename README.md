@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
