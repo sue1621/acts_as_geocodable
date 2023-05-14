@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
