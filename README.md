@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update the heatmap module code + docs (#7045)
