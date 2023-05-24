@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
