@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add missing single-line docstrings (#8362)
