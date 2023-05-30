@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Batch inference fixes (#8854)
