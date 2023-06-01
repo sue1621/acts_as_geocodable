@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Allow Annotator PIL.Image inputs (#8397)
