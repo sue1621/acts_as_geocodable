@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
