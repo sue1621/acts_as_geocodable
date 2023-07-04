@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Explorer with LanceDB, Actions and Docs updates (#7487)
