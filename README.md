@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
