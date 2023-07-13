@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
