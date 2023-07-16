@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
