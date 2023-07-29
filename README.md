@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+fix print val map
