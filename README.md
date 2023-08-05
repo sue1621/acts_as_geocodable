@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add distance calculation feature in vision-eye (#8616)
