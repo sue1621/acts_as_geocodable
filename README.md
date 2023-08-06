@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add settings runs_dir == datasets_dir warning (#8653)
