@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add estimate_speed(region_color) parameter (#8285)
