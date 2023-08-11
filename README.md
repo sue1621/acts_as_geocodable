@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Compare plt.get_backend() in lowercase (#8409)
