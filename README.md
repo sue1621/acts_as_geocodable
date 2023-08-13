@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
