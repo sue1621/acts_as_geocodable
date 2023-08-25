@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update mkdocs.yml (#7693)
