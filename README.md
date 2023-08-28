@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Batch inference fixes (#8854)
