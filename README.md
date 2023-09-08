@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+YAML reformat (#7669)
