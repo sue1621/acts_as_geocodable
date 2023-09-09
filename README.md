@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+New HUB Cloud Training docs page (#8174)
