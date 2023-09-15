@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add ONNX Docs integrations page (#7802)
