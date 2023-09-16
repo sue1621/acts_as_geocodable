@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
