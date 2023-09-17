@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
