@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
