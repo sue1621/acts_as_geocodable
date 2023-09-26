@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Avoid creating -hub dir without processing images (#8334)
