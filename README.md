@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix docker.yaml double-quote version bug (#7452)
