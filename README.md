@@ -1,1 +1,1 @@
-fix val each epoch
+OBB: Fix plot_images (#7592)
