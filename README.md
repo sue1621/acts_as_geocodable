@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
