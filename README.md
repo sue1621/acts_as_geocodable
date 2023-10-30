@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
