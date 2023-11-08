@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
