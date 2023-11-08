@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix docker.yaml double-quote version bug (#7452)
