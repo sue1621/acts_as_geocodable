@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add PR Summary step to Ultralytics Actions (#7675)
