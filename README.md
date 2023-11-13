@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
