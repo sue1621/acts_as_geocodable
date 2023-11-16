@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Resize angle, count, and stage on keypoint number change (#7598)
