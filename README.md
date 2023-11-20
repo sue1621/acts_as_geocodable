@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+New test for labels and crops (#8861)
