@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Update format.yml to pull_request_target (#7460)
