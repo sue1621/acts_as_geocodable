@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+ultralytics 8.1.27 batched tracking fixes (#8842)
