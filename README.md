@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
