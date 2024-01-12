@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Optimize function calls to method calls (#8507)
