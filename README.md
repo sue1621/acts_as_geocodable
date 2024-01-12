@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
