@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
