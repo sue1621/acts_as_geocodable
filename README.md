@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix PIL show() and save() (#8202)
