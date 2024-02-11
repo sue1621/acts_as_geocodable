@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Optimize function calls to method calls (#8507)
