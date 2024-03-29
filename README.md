@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update Colab notebook for YOLOv8.1 (#8660)
