@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
