@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
