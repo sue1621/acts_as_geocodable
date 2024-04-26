@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+YOLOv8 INT8 TFLite Inference Example (#7317)
