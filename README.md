@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Merge pull request #22 from SkalskiP/patch-1
