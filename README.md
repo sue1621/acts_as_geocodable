@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
