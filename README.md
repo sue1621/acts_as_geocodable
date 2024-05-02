@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
