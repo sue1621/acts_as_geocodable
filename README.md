@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Expand Model method type hinting (#8279)
