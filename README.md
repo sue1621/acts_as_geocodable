@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
