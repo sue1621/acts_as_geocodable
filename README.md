@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+fix predict with class filter
