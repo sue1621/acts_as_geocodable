@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
