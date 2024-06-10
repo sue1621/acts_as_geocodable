@@ -1,1 +1,1 @@
-fix predict with class filter
+Add Neural Magic Docs integrations page (#7234)
