@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
