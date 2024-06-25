@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add Amazon Sagemaker Docs integrations page (#7293)
