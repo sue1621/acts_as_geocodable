@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add docs guide terminal images (#8819)
