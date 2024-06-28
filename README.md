@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
