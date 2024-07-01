@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Use pathlib in DOTA ops (#7552)
