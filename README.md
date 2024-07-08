@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Fix TypeError in check_cfg() (#9245)
