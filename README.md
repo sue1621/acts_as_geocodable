@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Batch inference fixes (#8854)
