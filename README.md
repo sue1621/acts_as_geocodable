@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
