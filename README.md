@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
