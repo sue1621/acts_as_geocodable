@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Update Docs Home and Neural Magic pages (#7243)
