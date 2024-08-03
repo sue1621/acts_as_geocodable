@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Update OpenVINO INT8 export (#7515)
