@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add dota8.yaml and O tests (#7394)
