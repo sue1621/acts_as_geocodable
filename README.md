@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
