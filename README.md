@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+OpenVino 2024.0.0 (#8726)
