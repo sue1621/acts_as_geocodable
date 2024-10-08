@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix cmake requirements for ARM64 (#8589)
