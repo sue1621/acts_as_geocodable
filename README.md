@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
