@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
