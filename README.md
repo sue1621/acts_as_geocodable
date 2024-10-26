@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
