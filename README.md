@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
