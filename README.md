@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
